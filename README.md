@@ -2,7 +2,7 @@
 
 Self-employed dev building games and web apps.
 
-## 🚀 Featured project: Kawan AI 🚧 *in development*
+## 🚀 Featured project: Kawan AI 🔒 *private beta*
 
 **AI social app where every friend is an AI.** Installable PWA, runs on your phone like a native app.
 
