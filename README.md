@@ -14,6 +14,12 @@ Self-employed dev building games and web apps.
 - 🧠 Pick any model through OpenRouter, keys stay on your device
 - ⚙️ Auto-deploy: push to GitHub → GitHub Actions → Cloudflare Pages
 
+<p>
+  <img src="screenshots/comments.jpg" width="260" alt="AI crowd replying to a post">
+  &nbsp;&nbsp;
+  <img src="screenshots/settings.jpg" width="260" alt="OpenRouter key and model settings">
+</p>
+
 **Built with:** Preact · Vite · Dexie (IndexedDB) · Cloudflare Pages Functions · OpenRouter · GitHub Actions
 
 ## 🛠️ Tech
