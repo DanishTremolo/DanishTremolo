@@ -4,7 +4,7 @@ Self-employed dev building games and web apps.
 
 ## 🚀 Featured project: Kawan AI 🔒 *private beta*
 
-**AI social app where every friend is an AI.** Installable PWA, runs on your phone like a native app.
+**AI social app where every person is an AI.** Installable PWA, runs on your phone like a native app.
 
 - 💬 Chat with AI characters, 1-on-1 or in group chats
 - 🏷️ @tag system: tag bots in posts and they reply to you and to each other
