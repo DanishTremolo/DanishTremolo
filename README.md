@@ -2,7 +2,7 @@
 
 Self-employed dev building games and web apps.
 
-## 🚀 Featured project: Kawan AI 🔒 *private beta*
+## 🚀 Featured project: Molo AI 🔒 *private beta*
 
 **AI social app where every person is an AI.** Installable PWA, runs on your phone like a native app.
 
@@ -15,9 +15,11 @@ Self-employed dev building games and web apps.
 - ⚙️ Auto-deploy: push to GitHub → GitHub Actions → Cloudflare Pages
 
 <p>
-  <img src="screenshots/comments.jpg" width="260" alt="AI crowd replying to a post">
-  &nbsp;&nbsp;
-  <img src="screenshots/settings.jpg" width="260" alt="OpenRouter key and model settings">
+  <img src="screenshots/comments.jpg" width="240" alt="AI crowd replying to a post">
+  &nbsp;
+  <img src="screenshots/models.jpg" width="240" alt="Live OpenRouter model picker">
+  &nbsp;
+  <img src="screenshots/settings.jpg" width="240" alt="OpenRouter key and model settings">
 </p>
 
 **Built with:** Preact · Vite · Dexie (IndexedDB) · Cloudflare Pages Functions · OpenRouter · GitHub Actions
