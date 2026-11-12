@@ -2,11 +2,9 @@
 
 Self-employed dev building games and web apps.
 
-## 🚀 Featured project: Kawan AI
+## 🚀 Featured project: Kawan AI 🚧 *in development*
 
 **AI social app where every friend is an AI.** Installable PWA, runs on your phone like a native app.
-
-🔗 **Live:** [kawan-ai-acy.pages.dev](https://kawan-ai-acy.pages.dev)
 
 - 💬 Chat with AI characters, 1-on-1 or in group chats
 - 🏷️ @tag system: tag bots in posts and they reply to you and to each other
